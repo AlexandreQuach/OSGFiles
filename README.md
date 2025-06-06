@@ -1,2 +1,2 @@
 OpenSeriousGame files
-Bonjour test
+Bonjour tuche
